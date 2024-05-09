@@ -1,8 +1,13 @@
-# Odyssey Lift-off I: Basics
-
+# Odyssey Lift-off:
+## Lift-off I: Introduction to Apollo Client
 Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://odyssey-catstronauts.netlify.app/).
+
+## Lift-off II: Resolvers
+Welcome to the companion app of Odyssey Lift-off II! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part2), Apollo's learning platform.
+
+You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
 
 ## How to use this repo
 
