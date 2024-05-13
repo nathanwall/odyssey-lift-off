@@ -1,12 +1,19 @@
 # Odyssey Lift-off:
 ## Lift-off I: Introduction to Apollo Client
-Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
+### Completed 
+You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
 
 ## Lift-off II: Resolvers
-Welcome to the companion app of Odyssey Lift-off II! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part2), Apollo's learning platform.
+### Completed
+You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part2), Apollo's learning platform.
 
 ## Lift-off III: Arguments
-Welcome to the companion app of Odyssey Lift-off III! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part3), Apollo's learning platform.
+### Completed
+You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part3), Apollo's learning platform.
+
+## Lift-off IV: Mutations
+### To-do
+You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part4), Apollo's learning platform.
 
 ## How to use this repo
 
