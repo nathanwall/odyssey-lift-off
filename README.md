@@ -12,7 +12,7 @@ You can [find the course lessons and instructions on Odyssey](https://odyssey.ap
 You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part3), Apollo's learning platform.
 
 ## Lift-off IV: Mutations
-### To-do
+### Completed
 You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part4), Apollo's learning platform.
 
 ## How to use this repo
